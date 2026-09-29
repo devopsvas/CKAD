@@ -5,7 +5,12 @@ Limits are the Limits Maximum CPU udage limit
 Requests and No Limits are the best approach. All the pods should be requests set. 
 For memory set requests should be set and Limits should not be set . This the best approach 
 
+
+
+
 Official documentation:-  https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/
+                          https://kubernetes.io/docs/concepts/policy/resource-quotas/
+                          
 
 
 
